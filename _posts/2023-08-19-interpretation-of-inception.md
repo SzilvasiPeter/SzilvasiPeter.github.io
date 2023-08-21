@@ -15,7 +15,7 @@ Are you ready? If so, here is my notes on the Inception by Christopher Nolan.
 
 # Notes on Inception
 
-The film unfolds through two inception attempts, revealing Cobb's expertise. In the first, he incepts Saito for Cobol Engineering company. In the final, he aims to free Saito from Limbo state.
+The film unfolds through two inception attempts, revealing Cobb's expertise. In the first, he incepts Saito for Cobol Engineering mandate. In the final, he incepts Fischer and attempt to free Saito from the Limbo state.
 
 The movie's opening scene finds Cobb stranded on the Limbo shore. This moment holds a duality: did Cobb attempt to incept Saito to secure his return, or did Saito incept Cobb to join him? While both options are plausible, the latter is more probable since Saito **only tests** Cobb:
 
@@ -28,7 +28,7 @@ Ariadne (derived from Greek Mythology) joins to Cobb team as the new Architect. 
 
 > Cobb: Let me ask you a question. You never remember the beginning of your dreams, do you? You just turn up in the middle of what's going on.
 
-Dreams blur reality, even inflicting genuine pain. In the dual mirror moment, Ariadne crafts the dream from personal memory. Cobb alerts her to not create dreams with her own memory. Essentially, creating a line where **real and unreal** dissolves.
+Dreams blur reality, even inflicting genuine pain. In the dual mirror moment, Ariadne crafts the dream from personal memory. Cobb alerts her to not create dreams with her own memory. Because it will produce a line where **real and unreal** dissolves.
 
 > Cobb: Because building dreams out of your own memories is the surest way to lose your grip on what's real and what's a dream.
 
@@ -48,7 +48,7 @@ Yusuf, the final team member, showcases his potion craft. The drug significantly
 >Eames: They come here every day to sleep?\
 >Elderly Bald Man: No. They come to be woken up... the dream has become their reality...
 
-Most of us have found refuge in some kind of fantasy realm. Be it the pursuit of money and fame, the glow of a television screen, the sanctuary of faith and belief, or the landscapes of our own minds. In any case, we escape from our harsh (and fabricated) reality.
+Most of us have found refuge in some kind of fantasy realm. Be it the pursuit of money and fame, the glow of a television screen, the sanctuary of faith and belief, or the landscapes of our own minds. In any case, we are escaping from our harsh (and fabricated) reality.
 
 In the following scenes, we learned about Fischer's relationship with his father. His father neglected the relationship, focusing solely on money and power. The family picture (playing together with a pinwheel) holds no sentiment even at his deathbed. Fischer can obtain everything from money, except his father love. Likewise, Cobb and Mal are happy together, yet they fixated on the dreaming world. All of them are punished: Fischer's father dies without love, Mal suicides with confusion, and Cobb guilts from his wife's death. The symbol of punishment reoccurs later in the film which is marked by the 491 number. It *may* alludes to the **unforgivable sin** in the Bible.
 
@@ -56,17 +56,19 @@ In the following scenes, we learned about Fischer's relationship with his father
 > Then Peter came to Jesus and asked, "Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?"\
 > Jesus answered, "I tell you, not seven times, but seventy-seven times."
 
-The $7*70=490$ plus one (the "unforgivable" sin) yields 491. Regarding the number 528, I do not find any significance for it. On the Quora site, someone said that the 582 is the harmonic frequency for the note "mi" (miracle) which the third note of a musical scale. It represents the three-level dream state. But it seems no link between the [E (musical note)](https://en.wikipedia.org/wiki/E_(musical_note)) and 582... am I overlooking something? 
+The $7*70=490$ plus one (the "unforgivable" sin) yields 491. Regarding the number 528, I do not find any significance for it. On the Quora site, someone said that the 582 is the harmonic frequency for the note "mi" (miracle) which the third musical note. It represents the three-level dream state. But it seems no link between the [E (musical note)](https://en.wikipedia.org/wiki/E_(musical_note)) and 528... am I overlooking something? 
 
 Neverthless, I found a more satisfying answer [here](https://qr.ae/pyqOtx).
 
 > The number 528491, `52` means the year when his father Maurice Fischer was born which is 1952, `84` means the years when Robert Fischer was born which is 1984 and `91` means the year when his mother died which is 1991 when Robert was 7 years old.
 
-Our brains always come up with patterns in order to explain the unexplainable.
+Who is right? We never know... our brains always come up with patterns in order to explain the unexplainable. Afterwards, we choose one based on our heart or mind.
 
-The team revise a three-level dream plan for inception, prompting Fischer to reject his father's legacy. In New York Streets, Yusuf's dream convince Fischer of "I will not follow in my father's footsteps." In the Hotel lobby, Arthur's dream are persuading Fischer to "I will create something myself." Eames' dreams in snow-covered hospital complex declares "My father doesn't want me to be him."
+## The Planning
 
-Plan deviations push them to the Limbo level, the deepest layer. The place of the **collective unconsciousness** that Cobb and Mal built. Buildings and memories fill this place, including a Japanese palace. The palace that is Saito's manifestation, his **fear of death**. Saito implies multiples times about his struggle with aging, the desire to be youth again.
+The team revise a three-level dream for inception, prompting Fischer to reject his father's legacy. In New York Streets, Yusuf's dream try to convince Fischer of "I will not follow in my father's footsteps." In the Hotel lobby, Arthur's dream are persuading Fischer for "I will create something myself." Eames' dreams, in the snow-covered hospital complex, are declaring "My father doesn't want me to be him."
+
+Plan deviations push some of them into the Limbo level, the deepest layer. The place of the **collective unconsciousness** that Cobb and Mal built. Buildings and memories fill this place, including a Japanese palace. The palace that is Saito's manifestation, his **fear of death**. Saito implies multiples times about his struggle with aging, the desire to be youth again.
 
 > Saito: Dare you take a leap of faith? Or become an old man, filled with regret, waiting to die alone?
 > Saito: Then I'll take the chance and come back. And we'll be young men together again.
