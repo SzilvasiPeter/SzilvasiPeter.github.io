@@ -9,13 +9,13 @@ categories: drama film interpretation summary ChristopherNolan inception dream i
 
 The [Inception](https://www.imdb.com/title/tt1375666/) is a kind of film that you have to watch more than 3 times. The message, the story, the actings and the imagery symbols are complex and hidden from the viewers. Only if you exceedingly pay attention on the details, you will maybe try to grasp this great movie. Therefore, I myself also watched it three times and researched explanations on the internet which helped a lot to *understand* the Inception. I do not think that I am fully succeed but I developed my own interpretation which I am satisfied with.
 
-I invite you to watch the movie, checkout reddit posts, watch youtube videos (e.g. [Inception in Real-Time](https://www.youtube.com/watch?v=MHBlYJ-tKcs)), go to [Inception Wiki](https://inception.fandom.com/wiki/Inception_Wiki), and then watch the film again while you are taking notes. If you have **no time to watch** the whole film then refresh your memory by reading the [Inception Plot](https://en.wikipedia.org/wiki/Inception#Plot) on Wikipedia. Getting know the [main characters](https://en.wikipedia.org/wiki/Inception#Cast) will assist to understand the story. Go to Fandom wiki page for more information about [Dominick Cobb](https://inception.fandom.com/wiki/Dominick_Cobb), [Mallorie Cobb (Mal)](https://inception.fandom.com/wiki/Mallorie_Cobb), [Saito](https://inception.fandom.com/wiki/Saito), [Robert Fischer](https://inception.fandom.com/wiki/Robert_Fischer), [Ariadne](https://inception.fandom.com/wiki/Ariadne), [Eames](https://inception.fandom.com/wiki/Eames), [Arthur](https://inception.fandom.com/wiki/Arthur), and [Yusuf](https://inception.fandom.com/wiki/Yusuf). Or check out my short description at the [Characters](#characters) and the [Locations](#locations) sections. The quotes are referenced from the [Inception scripts](https://imsdb.com/scripts/Inception.html).
+I invite you to watch the movie, checkout reddit posts, watch youtube videos (e.g. [Inception in Real-Time](https://www.youtube.com/watch?v=MHBlYJ-tKcs)), go to [Inception Wiki](https://inception.fandom.com/wiki/Inception_Wiki), and then watch the film again while you are taking notes. If you have **no time to watch** the whole film then refresh your memory by reading the [Inception Plot](https://en.wikipedia.org/wiki/Inception#Plot) on Wikipedia. Getting know the [main characters](https://en.wikipedia.org/wiki/Inception#Cast) will assist to understand the story. Go to Fandom wiki page for more information about [Dominick Cobb](https://inception.fandom.com/wiki/Dominick_Cobb), [Mallorie Cobb (Mal)](https://inception.fandom.com/wiki/Mallorie_Cobb), [Saito](https://inception.fandom.com/wiki/Saito), [Robert Fischer](https://inception.fandom.com/wiki/Robert_Fischer), [Ariadne](https://inception.fandom.com/wiki/Ariadne), [Eames](https://inception.fandom.com/wiki/Eames), [Arthur](https://inception.fandom.com/wiki/Arthur), and [Yusuf](https://inception.fandom.com/wiki/Yusuf). Or check out my short description at the [Characters](#characters) and the [Locations](#locations) sections. All quotes are referenced from the [Inception scripts](https://imsdb.com/scripts/Inception.html).
 
 Are you ready? If so, here is my notes on the Inception by Christopher Nolan.
 
 # Notes on Inception
 
-The film unfolds through two inception attempts, revealing Cobb's expertise. In the first, he incepts Saito for Cobol Engineering mandate. In the final, he incepts Fischer and attempt to free Saito from the Limbo state.
+The film unfolds through two inception attempts, revealing Cobb's expertise. In the first, he incepts Saito for the Cobol Engineering company. In the final, he incepts Fischer and attempt to free Saito from the Limbo state.
 
 The movie's opening scene finds Cobb stranded on the Limbo shore. This moment holds a duality: did Cobb attempt to incept Saito to secure his return, or did Saito incept Cobb to join him? While both options are plausible, the latter is more probable since Saito **only tests** Cobb:
 
@@ -24,11 +24,14 @@ The movie's opening scene finds Cobb stranded on the Limbo shore. This moment ho
 > Cobb: Audition for what?\
 > Saito: It doesn't matter. You failed.
 
-Ariadne (derived from Greek Mythology) joins to Cobb team as the new Architect. Cobb explains dreams mechanics by crafting a dream unknown to her.
+## Team Building
 
+The team contains six members: an Extractor, a Planner, an Architect, a Forger, a Chemist and a Tourist:
+
+Ariadne (derived from Greek Mythology) joins to Cobb team as the new Architect. Cobb explains dreams mechanics by crafting a dream unknown to her.
 > Cobb: Let me ask you a question. You never remember the beginning of your dreams, do you? You just turn up in the middle of what's going on.
 
-Dreams blur reality, even inflicting genuine pain. In the dual mirror moment, Ariadne crafts the dream from personal memory. Cobb alerts her to not create dreams with her own memory. Because it will produce a line where **real and unreal** dissolves.
+Dreams blur reality, even inflicting genuine pain. In the dual mirror moment, Ariadne crafts the dream from personal memory. Cobb alerts her to not create dreams with her own memory. Essentially, creating a line where **real and unreal** dissolves.
 
 > Cobb: Because building dreams out of your own memories is the surest way to lose your grip on what's real and what's a dream.
 
@@ -62,26 +65,45 @@ Neverthless, I found a more satisfying answer [here](https://qr.ae/pyqOtx).
 
 > The number 528491, `52` means the year when his father Maurice Fischer was born which is 1952, `84` means the years when Robert Fischer was born which is 1984 and `91` means the year when his mother died which is 1991 when Robert was 7 years old.
 
-Who is right? We never know... our brains always come up with patterns in order to explain the unexplainable. Afterwards, we choose one based on our heart or mind.
+Who is right? We never know, yet our brains always come up with patterns in order to explain the unexplainable.
 
-## The Planning
+## Planning
 
-The team revise a three-level dream for inception, prompting Fischer to reject his father's legacy. In New York Streets, Yusuf's dream try to convince Fischer of "I will not follow in my father's footsteps." In the Hotel lobby, Arthur's dream are persuading Fischer for "I will create something myself." Eames' dreams, in the snow-covered hospital complex, are declaring "My father doesn't want me to be him."
+The team revise a three-level dream plan for inception, prompting Fischer to reject his father's legacy.
+- In New York Streets, Yusuf's dream convince Fischer of "I will not follow in my father's footsteps."
+- In the Hotel Lobby, Arthur's dream are persuading Fischer to "I will create something myself."
+- In snow-covered Hospital Complex, Eames' dreams declares "My father doesn't want me to be him."
 
-Plan deviations push some of them into the Limbo level, the deepest layer. The place of the **collective unconsciousness** that Cobb and Mal built. Buildings and memories fill this place, including a Japanese palace. The palace that is Saito's manifestation, his **fear of death**. Saito implies multiples times about his struggle with aging, the desire to be youth again.
+Deviations from the plan push them to the Limbo level, the deepest layer. The place of the **collective unconsciousness** that Cobb and Mal built. Buildings and memories fill this place, including a Japanese palace. The palace that is Saito's manifestation, his **fear of death**. Saito implies multiples times about his struggle with aging, the desire to be youth again.
 
-> Saito: Dare you take a leap of faith? Or become an old man, filled with regret, waiting to die alone?
+> Saito: Dare you take a leap of faith? Or become an old man, filled with regret, waiting to die alone?\
 > Saito: Then I'll take the chance and come back. And we'll be young men together again.
 
-# First Level
+## First Level
 
-# Second Level
+Saito faced with the fear of death when Fischer's projections shot him. It turned out that they were in a deep sleep that if someone died in that dream, they would go to Limbo. Limbo is the rawest state of our unconsciousness, where our demons await. Time slows in this place, making the dreamer prone to illusions such as the dream is real.
 
-# Third Level
+Before going deeper into the dream level, they interrogate Fischer to set up the stage for the next level. Eames impersonates Fischer's godfather to gather details about his connection to his father. The conversation makes it clear that Fischer and his father had no meaningful experience together. When Fischer's mother passed away, his father told him that "There's really nothing to be said, Robert." even though he was only eleven years old. At the end of his deathbed, his last word to his only child was "Disappointed". This word will later be used to incept Fischer.
 
-# Limbo
+We also get to know the relationship between Cobb and Mal. Ariadne asks Cobb about Mal. Initially, they were unaware that as they delved deeper into the dream state, they would lose their grasp on reality. Spending 50 years in Limbo changed Mal completely.
 
-# Ending
+> Cobb: To wake from that. From decades lived. To be old souls thrown back into youth. It was hard. At first Mal seemed okay. But I started to realize something was wrong. Finally she admitted it. This idea she was possessed by. This simple little idea that changed everything...\
+> Ariadne: What was it?
+> Cobb: That our world was not real. No matter what I did, no matter what I said, she was convinced that we were still in a dream. That we needed to wake up again...
+
+Mal had planned her suicide to slander Cobb so that he decided to jump out of the windows as well. She asked him to "take a leap of faith" just like Saito in the beginning. But he was unable to leave his children. Mal's last sentence to Cobb will be reiterated later.
+
+> Mal: You're waiting for a train... A train that will take you far away... You know where you hope this train will take you, you can't know for sure... But it doesn't matter... Because you'll be together...
+
+Cobb had to leave the country to avoid jail, letting his children behind. In his dream, Mal was empowered by the guilt that originates from Cobb's inability to process his traumas.
+
+## Second Level
+
+## Third Level
+
+## Limbo
+
+## Ending
 
 # Interpretation
 
