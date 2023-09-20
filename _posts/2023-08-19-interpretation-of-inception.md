@@ -99,6 +99,15 @@ Cobb had to leave the country to avoid jail, letting his children behind. In his
 
 ## Second Level
 
+This level starts with an ingenious trick, the "Mr. Charles" trickery. It is a gambit design where someone goes against their subconsciousness. The plot is the following: Cobb convinces Fischer that he is Mr. Charles, a defender of subconscious projections in his dream because an enemy Extractor pulling out information from him. Importantly, everything that happening on level one affects everything on level two:
+
+- A raindrop at level one creates a storm at level two
+- Curving the van by Yussif on the street of level one changes the whole gravity at the hotel on level two
+
+The purpose of the team is to mud Peter that he wants to get rid of the safe information to get his father's last will. The constructed narrative in which Fischer is unworthy in his father's eyes, that he is not capable of anything by himself, led to go deeper into Peter's (Eames') subconscious. They ended up in room 491 just above the 528 room. Incidentally, the code for the safe (528-491) was there, hidden from the hasty attention. When one is seeking restlessly to resolve a question then realizing that the answer is always present in front of the eyes.
+
+Throughout the mission of level two, Cobb's shadows manifest themselves, reminding him of the loss of Mal. When his wife jumps out of the windows, leaving the family behind. The memory of the children at home where he can not return. The missing feeling of the old days, the sense of emptiness spreads in Cobb's mind.
+
 ## Third Level
 
 ## Limbo
