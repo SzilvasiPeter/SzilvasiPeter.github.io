@@ -138,6 +138,75 @@ They almost give up the mission till Ariadne comes up with a brilliant solution:
 
 ## Limbo
 
+Once the world of Limbo was beautiful, flooded with happy memories. Now, it is collapsing. Cobb and Mal built this place for years, reminding them of the joyous events of their life. Cobb is not immune to hallucinating his children in Limbo as well. Rather, the desire to see his children once again is more significant. After the tour of the old memories, they find the building where Mal is imprisoning Fischer. The peak of the movie is tensioned around the dialogue between Cobb and Mal.
+
+> Cobb: There's something you have to understand about me. About inception. You see, an idea is like a virus... Resilient... (turns to Ariadne) Highly contagious, and an idea can grow. The smallest seed of an idea can grow to define or destroy your world...\
+> Mal: The smallest idea, such as... "Your world is not real."\
+> Mal: A simple little thought that changes everything...\
+> Mal: So certain of your world. Of what's real. Do you think he is (points at Cobb) Or do you think he's as lost as I was?\
+> Cobb: I know what's real.\
+> Mal: What are the distinguishing characteristics of a dream? Mutable laws of physics? Tell that to the quantum physicists. Reappearance of the dead? What about heaven and hell? Persecution of the dreamer, the creator, the messiah? They crucified Christ, didn't they?\
+> Cobb: I know what's real.\
+> Mal: No creeping doubts? Not feeling persecuted, Dom? Chased around the globe by anonymous corporations and police forces? The way the projections persecute the dreamer?\
+> Mal: Admit it, Dom. You don't believe in one reality anymore. So choose. Choose your reality like I did. Choose to be here. Choose me.\
+> Cobb: (rising anger) I have chosen, Mal. Our children. I have to get back to them. Because you left them. You left us.\
+> Mal: You're wrong, Dom. You're confused... our children are here\
+> Mal: (whispers) And you'd like to see their faces again, wouldn't you, Dom?\
+> Cobb: Our real children are waiting for me up above.\
+> Mal: (laughs) Up above? Listen to yourself. You judged me for believing the very same thing.\
+> Mal: These are our children. Watch. (turns to the kids) Hey, James! Philippa?!\
+> Cobb: They're not real, Mal. Our real children are waiting for us.\
+> Mal: You keep telling yourself that but you don't believe it.\
+> Cobb: I know it.\
+> Mal: And what if you're wrong? What if I'm what's real?\
+> Mal: You keep telling yourself what you know... but what do you believe? What do you feel?\
+> Cobb: Guilt. I feel guilt. And however confused I might get.\
+> Cobb: However lost I might seem... it's always there. Telling me something. Reminding me of the truth.\
+> Mal: What truth?\
+> Cobb: That you were wrong to doubt our world. That the idea that drove you to question your reality was a lie...\
+> Mal: How could you know it was a lie?\
+> Cobb: Because it was my lie.\
+> Mal: (realizing) Because you planted the idea in my mind.\
+> Cobb: Because I performed inception on my own wife, then reaped the bitter rewards...\
+> Ariadne: Why?\
+> Cobb: We'd become lost in here. Living in a world of infinite possibilities. A world where we were gods. I realized we needed to escape, but she'd locked away her knowledge of the unreality of this world...\
+> Cobb: I couldn't make Mal understand that we needed to break free. To die. So I started to search our world...\
+> Cobb: Searching for the right place in her mind...\
+> Cobb: And when I found that place, that secret place where she had shut away her knowledge years before, I broke it open...\
+> Cobb: I broke into the deepest recess of her mind, to give her the simplest little idea.\
+> Cobb: A truth that she had once known, but had chosen to forget...\
+> Cobb: That her world was not real.\
+> Cobb: That death was a necessary escape.
+
+(Memory of when Cobb and Mal arrive at the train tracks)
+
+> Cobb: You're waiting for a train. A train that will take you far away. You know where you hope this train will take you, but you can't know for sure. Yet it doesn't matter...\
+> Mal: Because you'll be together.
+
+(Memory ends)
+
+> Cobb: I never thought that the idea I'd planted would grow in her mind like a cancer. That even after we woke...\
+> Cobb: You'd continue to believe that your world was not real...\
+> Mal: That death was the only escape?\
+> Mal: You killed me.\
+> Cobb: I was trying to save you, I'm sorry.\
+> Mal: You infected my mind. You betrayed me. But you can make amends. You can still keep your promise. We can still be together... right here. In our world. The world we built together.
+
+A huge lighting storm appeared because of the defibrillator sign. The sign for the kick but Cobb needs to find Saito first. Cobb wishes to be with Mal that she would live. However, he knows that she does not exist anymore. It is crystallized for him that Mal is just a shade of his real wife.
+
+> Cobb: I wish you were. But I couldn't make you real. I'm not capable of imagining you in all your complexity and... perfection. As you really were. You're the best I can do. And you're not real.
+
+After Cobb refuses to stay with Mal, she stabs Cobb, and then Ariadne shoots Mal. Fischer wakes up after he was pushed down from the building. Then Fischer finds out the disappointment of his father: My father does not want to be his "shadow". Meanwhile, all kicks are initiated, making the possibility of waking up. Lastly, Mal asks if Cobb remembers what he said after marrying her.
+
+> Mal: We'd be together forever. You promised me.\
+> Cobb: I know. But we can't. And I'm sorry.
+> Mal: You remember when you asked me to marry you? You said you dreamt that we'd grow old together.
+> Cobb: And we did...
+
+It turned out that they did grow old together. In Limbo. They died as old, not young, when the train hit them.
+
+> Cobb: I miss you more than I can bear... but we had our time together. And now I have to let go...
+
 ## Ending
 
 # Interpretation
