@@ -209,7 +209,14 @@ It turned out that they did grow old together. In Limbo. They died as old, not y
 
 ## Ending
 
+- Finding Saito in Limbo at the Japanese Palace
+- Quote dialoge
+- One possibility that the film is a symbol
+- The totem spinning: real or dream
+
 # Interpretation
+
+- Short take on the film
 
 # Glossary
 
