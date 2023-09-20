@@ -45,11 +45,11 @@ Arthur enlightens Ariadne on dream defense through paradoxes like the [Penrose s
 
 Yusuf, the final team member, showcases his potion craft. The drug significantly extends the dream duration. Beneath his shop, slumbering elders reside. The elder watchman notes **their dreams are now their reality**, seeking awakening.
 
->Yusuf: They come every day. To share the dream.\
->Cobb: How long in dream time?\
->Yusuf: With this compound... about forty hours. Each and every day.\
->Eames: They come here every day to sleep?\
->Elderly Bald Man: No. They come to be woken up... the dream has become their reality...
+> Yusuf: They come every day. To share the dream.\
+> Cobb: How long in dream time?\
+> Yusuf: With this compound... about forty hours. Each and every day.\
+> Eames: They come here every day to sleep?\
+> Elderly Bald Man: No. They come to be woken up... the dream has become their reality...
 
 Most of us have found refuge in some kind of fantasy realm. Be it the pursuit of money and fame, the glow of a television screen, the sanctuary of faith and belief, or the landscapes of our own minds. In any case, we are escaping from our harsh (and fabricated) reality.
 
@@ -99,16 +99,42 @@ Cobb had to leave the country to avoid jail, letting his children behind. In his
 
 ## Second Level
 
-This level starts with an ingenious trick, the "Mr. Charles" trickery. It is a gambit design where someone goes against their subconsciousness. The plot is the following: Cobb convinces Fischer that he is Mr. Charles, a defender of subconscious projections in his dream because an enemy Extractor pulling out information from him. Importantly, everything that happening on level one affects everything on level two:
+This level starts with an ingenious trick, the "Mr. Charles" trickery. It is a gambit design where someone goes against their subconsciousness. The plot is the following: Cobb convinces Fischer that he is Mr. Charles, a defender of subconscious projections in his dream because an enemy Extractor pulling out information from him.
+
+> Cobb: My job is to protect you from any attempt to access your mind through your dreams.
+
+Importantly, everything that happening on level one affects everything on level two:
 
 - A raindrop at level one creates a storm at level two
 - Curving the van by Yussif on the street of level one changes the whole gravity at the hotel on level two
 
 The purpose of the team is to mud Peter that he wants to get rid of the safe information to get his father's last will. The constructed narrative in which Fischer is unworthy in his father's eyes, that he is not capable of anything by himself, led to go deeper into Peter's (Eames') subconscious. They ended up in room 491 just above the 528 room. Incidentally, the code for the safe (528-491) was there, hidden from the hasty attention. When one is seeking restlessly to resolve a question then realizing that the answer is always present in front of the eyes.
 
+> Ariadne: So you destroy his one positive relationship?\
+> Cobb: No. We repair his relationship with his father and expose his godfather's true nature.
+
 Throughout the mission of level two, Cobb's shadows manifest themselves, reminding him of the loss of Mal. When his wife jumps out of the windows, leaving the family behind. The memory of the children at home where he can not return. The missing feeling of the old days, the sense of emptiness spreads in Cobb's mind.
 
 ## Third Level
+
+The most dangerous level is the snow-covered hospital complex. Not only because of Fischer's projections but because of Cobb's, too. By going down into deeper and deeper layers, Fischer just remembers the last dream. The New York City dream is forgotten besides the airplane travel in reality.
+
+The time dilation is also increases. In order to wake up, they arrange an order of "kicks" in the dreams. Only a falling sensation can wake up the dreamers. In this regard, the kicks have to be synchronized or the dreamer will stay sleeping, unable to wake up:
+
+- First-level kick: Yussif rides the car into the river. The kick will be the bounce of the car when the car falls off the bridge.
+- Second-level kick: Arthur explodes the elevator because the gravity is changed during the free falling of the car. The explosion will make the sense of "falling" in the already floating dream. Brilliancy from Arthur...
+- Third-level kick: The elevator explosion creates a huge snow avalanche at this level. Eames's kick is another explosion, the denotation of the hospital complex.
+
+The team sieges the fortress where Fischer's father rests to acquire his last will. There is a lot of action and projections killing in the meanwhile. Similar to when the immune system fights against a virus with it's full arsenal. But it does sometimes destroy the healthy cells in that process. Like a belief, an ideology, an *idea* destroys one mind.
+
+> Ariadne: These projections, they're part of his subconscious?\
+> Cobb: Yeah.\
+> Ariadne: Are you destroying those parts of his mind?\
+> Cobb: No, of course not. They're just projections.
+
+Mal appears in this dream as well, sabotaging the mission as usual. Because Cobb hesitates to kill her, she shoots Fischer. Only after that, Cobb is willing to kill the shadow of his wife. Fischer and Mal descend into Limbo.
+
+They almost give up the mission till Ariadne comes up with a brilliant solution: go down to Limbo, find Fischer, and kick him so he can get his father's will. Eames signals for the kick by shocking Fischer with the defibrillator. The brave Ariadne assists Cobb in the Limbo where Mal is waiting for them.
 
 ## Limbo
 
