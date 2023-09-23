@@ -5,7 +5,7 @@ date:   2023-08-20
 categories: drama film interpretation summary ChristopherNolan inception dream idea time death life guilt faith Limbo subconciouss mind projections depth catharsis
 ---
 
-> sentences, words, characters
+> 292 sentences, 3813 words, 21388 characters
 
 The [Inception](https://www.imdb.com/title/tt1375666/) is a kind of film that you have to watch more than 3 times. The message, the story, the actings and the imagery symbols are complex and hidden from the viewers. Only if you exceedingly pay attention on the details, you will maybe try to grasp this great movie. Therefore, I myself also watched it three times and researched explanations on the internet which helped a lot to *understand* the Inception. I do not think that I am fully succeed but I developed my own interpretation which I am satisfied with.
 
@@ -207,8 +207,8 @@ A huge lighting storm appeared because of the defibrillator sign. The sign for t
 After Cobb refuses to stay with Mal, she stabs Cobb, and then Ariadne shoots Mal. Fischer wakes up after he was pushed down from the building. Then Fischer finds out the disappointment of his father: My father does not want me to be his "shadow". Meanwhile, all kicks are initiated, making the possibility of waking up. Lastly, Mal asks if Cobb remembers what he said after marrying her.
 
 > Mal: We'd be together forever. You promised me.\
-> Cobb: I know. But we can't. And I'm sorry.
-> Mal: You remember when you asked me to marry you? You said you dreamt that we'd grow old together.
+> Cobb: I know. But we can't. And I'm sorry.\
+> Mal: You remember when you asked me to marry you? You said you dreamt that we'd grow old together.\
 > Cobb: And we did...
 
 It turned out that they did grow old together. In Limbo. They died as old, not young, when the train hit them.
