@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interpretation of Inception"
-date:   2023-08-20
+date:   2023-09-23
 categories: drama film interpretation summary ChristopherNolan inception dream idea time death life guilt faith Limbo subconciouss mind projections depth catharsis
 ---
 
