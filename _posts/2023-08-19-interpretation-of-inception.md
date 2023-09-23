@@ -74,6 +74,10 @@ The team revise a three-level dream plan for inception, prompting Fischer to rej
 - In the Hotel Lobby, Arthur's dream are persuading Fischer to "I will create something myself."
 - In snow-covered Hospital Complex, Eames' dreams declares "My father doesn't want me to be him."
 
+Going that deeper to the dream land is not only cumbersome but very dangerous as well.
+
+> Eames: Nah, it's perfectly possible, it's just bloody difficult.
+
 Deviations from the plan push them to the Limbo level, the deepest layer. The place of the **collective unconsciousness** that Cobb and Mal built. Buildings and memories fill this place, including a Japanese palace. The palace that is Saito's manifestation, his **fear of death**. Saito implies multiples times about his struggle with aging, the desire to be youth again.
 
 > Saito: Dare you take a leap of faith? Or become an old man, filled with regret, waiting to die alone?\
@@ -83,7 +87,7 @@ Deviations from the plan push them to the Limbo level, the deepest layer. The pl
 
 Saito faced with the fear of death when Fischer's projections shot him. It turned out that they were in a deep sleep that if someone died in that dream, they would go to Limbo. Limbo is the rawest state of our unconsciousness, where our demons await. Time slows in this place, making the dreamer prone to illusions such as the dream is real.
 
-Before going deeper into the dream level, they interrogate Fischer to set up the stage for the next level. Eames impersonates Fischer's godfather to gather details about his connection to his father. The conversation makes it clear that Fischer and his father had no meaningful experience together. When Fischer's mother passed away, his father told him that "There's really nothing to be said, Robert." even though he was only eleven years old. At the end of his deathbed, his last word to his only child was "Disappointed". This word will later be used to incept Fischer.
+Before going deeper into the dream level, they interrogate Fischer to set up the stage for the next level. Eames impersonates Fischer's godfather to gather details about his connection to his father. The conversation makes it clear that Fischer and his father had no meaningful experience together. When Fischer's mother passed away, his father told him that "There's really nothing to be said, Robert." even though his son was only eleven years old. At the end of his deathbed, his last word to his only child was "Disappointed". This word will later be used to incept Fischer.
 
 We also get to know the relationship between Cobb and Mal. Ariadne asks Cobb about Mal. Initially, they were unaware that as they delved deeper into the dream state, they would lose their grasp on reality. Spending 50 years in Limbo changed Mal completely.
 
@@ -119,6 +123,8 @@ Throughout the mission of level two, Cobb's shadows manifest themselves, remindi
 
 The most dangerous level is the snow-covered hospital complex. Not only because of Fischer's projections but because of Cobb's, too. By going down into deeper and deeper layers, Fischer just remembers the last dream. The New York City dream is forgotten besides the airplane travel in reality.
 
+> Ariadne: The truth that at any minute, you might bring a freight train through the wall. The truth that Mal is bursting through your subconscious. And the truth that as we go deeper into Fischer, we're also going deeper into you. And I'm not sure we're going to like what we find.
+
 The time dilation is also increases. In order to wake up, they arrange an order of "kicks" in the dreams. Only a falling sensation can wake up the dreamers. In this regard, the kicks have to be synchronized or the dreamer will stay sleeping, unable to wake up:
 
 - First-level kick: Yussif rides the car into the river. The kick will be the bounce of the car when the car falls off the bridge.
@@ -135,6 +141,8 @@ The team sieges the fortress where Fischer's father rests to acquire his last wi
 Mal appears in this dream as well, sabotaging the mission as usual. Because Cobb hesitates to kill her, she shoots Fischer. Only after that, Cobb is willing to kill the shadow of his wife. Fischer and Mal descend into Limbo.
 
 They almost give up the mission till Ariadne comes up with a brilliant solution: go down to Limbo, find Fischer, and kick him so he can get his father's will. Eames signals for the kick by shocking Fischer with the defibrillator. The brave Ariadne assists Cobb in the Limbo where Mal is waiting for them.
+
+> Ariadne: Your guilt defines her. It's what powers her. But you are not responsible for the idea that destroyed her. And if we are going to succeed in this, you have to forgive yourself and you're going to have to confront her. But you don't have to do that alone.
 
 ## Limbo
 
@@ -192,11 +200,11 @@ Once the world of Limbo was beautiful, flooded with happy memories. Now, it is c
 > Cobb: I was trying to save you, I'm sorry.\
 > Mal: You infected my mind. You betrayed me. But you can make amends. You can still keep your promise. We can still be together... right here. In our world. The world we built together.
 
-A huge lighting storm appeared because of the defibrillator sign. The sign for the kick but Cobb needs to find Saito first. Cobb wishes to be with Mal that she would live. However, he knows that she does not exist anymore. It is crystallized for him that Mal is just a shade of his real wife.
+A huge lighting storm appeared because of the defibrillator sign. The sign for the kick, but Cobb needs to find Saito first. Cobb wishes to be with Mal, that she would live. However, he knows that she does not exist anymore. It is crystallized for him that Mal is just a shade of his real wife.
 
 > Cobb: I wish you were. But I couldn't make you real. I'm not capable of imagining you in all your complexity and... perfection. As you really were. You're the best I can do. And you're not real.
 
-After Cobb refuses to stay with Mal, she stabs Cobb, and then Ariadne shoots Mal. Fischer wakes up after he was pushed down from the building. Then Fischer finds out the disappointment of his father: My father does not want to be his "shadow". Meanwhile, all kicks are initiated, making the possibility of waking up. Lastly, Mal asks if Cobb remembers what he said after marrying her.
+After Cobb refuses to stay with Mal, she stabs Cobb, and then Ariadne shoots Mal. Fischer wakes up after he was pushed down from the building. Then Fischer finds out the disappointment of his father: My father does not want me to be his "shadow". Meanwhile, all kicks are initiated, making the possibility of waking up. Lastly, Mal asks if Cobb remembers what he said after marrying her.
 
 > Mal: We'd be together forever. You promised me.\
 > Cobb: I know. But we can't. And I'm sorry.
@@ -209,14 +217,28 @@ It turned out that they did grow old together. In Limbo. They died as old, not y
 
 ## Ending
 
-- Finding Saito in Limbo at the Japanese Palace
-- Quote dialoge
-- One possibility that the film is a symbol
-- The totem spinning: real or dream
+The opening and the ending look the same, but looking carefully, the conversations of the scenes are slightly different from each other. The dialogues are shifted very subtly.
+
+> Saito: I've been waiting for someone to come for me...\
+> Cobb: Someone from your half-remembered dream...?\
+> Saito: Cobb? Not possible, he and I were young men together. And I am an old man...\
+> Cobb: Filled with regret? (Saito remembers, nods...)\
+> Saito: Waiting to die alone, yes.\
+> Cobb: I came back for you... I came to remind you of what you once knew...\
+> Cobb: That this world is not real.\
+> Saito: You came to convince me to honor our arrangement?\
+> Cobb: Yes. And to take a leap of faith.\
+> Cobb: Come back and we'll be young men together again.
+
+Both of them are struggling to remember back to the real world. Slowly, they start to regain their memories back. Who are they, what is real, and what are their agreement? In the end, they took "a leap of faith" which woke them up. Saito was very confused on the plane, but he did arrange a call which has helped Cobb to cross the country border. By crossing the border, he can finally see his children's faces once again.
+
+Cobb was filled with joy after seeing James and Philippa. The intensity of happiness was so much that he had to spin the totem because it felt like a dream. He could not wait for the totem to collapse. He does not care about if it is a dream or not. At the end, the totem started to wobble, hinting that this moment was not a dream. But even if it is a dream, it is meaningless. Why? Because the only thing that matters is that the love towards his children is real.
 
 # Interpretation
 
-- Short take on the film
+The movie encapsulates a lot of symbols: the desire to live in a dream, the aversion from reality, the suicide as solution, the feeling of missing one's children, the lack of parental love, the terror of aging. Maybe, Mal is not died from the "world is not real" idea. But due to an illness, to a cancer or to a virus. In this sense, the mental and physical diseases are interconnected: if you are in peace, your body will be at ease; if you are not in peace, your body will be in disease. Maybe, Cobb is dreaming the whole time in order to process his traumas.
+
+In any case, the film teaches us important lessons. First, that human beings want to live in a dream to lessen the reality of life. Second, that human beings the only animals which can suffer because of their own mind. And third, that there is only one thing that is more painful than dying: witnessing the suffering of a loved one. This is why Cobb wants to go home at all cost. Because his children will feel immense pain once they find out that not only that their mother was died but that they can never see their father anymore.
 
 # Glossary
 
@@ -237,57 +259,49 @@ The following table describes briefly the main characters.
 
 ## Locations
 
-The subsequent locations can be found on five different level.
+The scenes can be divided into four different dream levels plus one reality layer where the characters are awake or sleep.
 
-TODO: Describe briefly the levels in 2-3 sentence.
+- Reality: Thoughts and ideas can not alter the laws of physics over here.
+- Level 1: Someone is dreaming in reality. The projections defend the dreamer from the extractors. If you sleep ten hours in reality, then a week passes in this level.
+- Level 2: Dreaming inside a dream. The dreamer is going to lose the memory of reality. The unconscious manifestations are getting stronger. Ten hours in reality results six months in this place.
+- Level 3: The dreamer most likely forget about the level one dream and the reality. Here, the projections are the strongest and the most sophisticated. The rate of time dilation is about 1 year dreaming to 1 hour sleeping.
+- Limbo: It is the most dangerous location where the dream has no limitations. Thoughts, ideas and desires are manifesting with no boundary. The dreamer may lose the perception of what is real or not. Time is unpredictable, whereby multiple years or decades can pass in only a session of sleep.
 
-- Reality: (10 hours)
-- Level 1: (a week) (New York Streets)
-- Level 2: (six months) (Hotel Lobby)
-- Level 3: (ten years) (Hospital Complex)
-- Limbo: (time is unpredictable) It is a dangerous location where a dream has no limitations including the perception of what is reality.
+Each dream state has its own distinct catharsis and location. The following tables show the chronological order of the locations based on the levels.
 
-TODO: Describe 1-2 sentence each word
-
-| Spot                          | Level   | World Picture                              |
-| ----------------------------- | ------- | ------------------------------------------ |
-| Coast                         | Limbo   | Saito inception                            |
-| Japanese Castle               | Limbo   | Saito inception                            |
-| Dining Room                   | Level 2 | Saito inception                            |
-| Crumbling Hotel               | Level 1 | Saito inception                            |
-| École Spéciale d'Architecture | Reality | Ariadne                                    |
-| MOMBASA                       | Reality | Eames                                      |
-| BACK ROOM                     | Reality | Yusuf                                      |
-| WORKSHOP                      | Reality | The planning                               |
-| First Class Cabin, 747        | Reality | Fischer inception                          |
-| New York Streets              | Level 1 | Fischer inception                          |
-| Hotel Lobby                   | Level 2 | Fischer inception                          |
-| Hospital Complex              | Level 3 | Fischer inception (SNOW-COVERED MOUNTAINS) |
-| Penthouse                     | Limbo   | Fischer inception                          |
-| Dining Room, Castle           | Limbo   | Fischer inception                          |
-| Kitchen                       | Reality | Cobb ending                                |
+| Localtion                     | Layer   | The Scene                           |
+| ----------------------------- | ------- | ----------------------------------- |
+| Japanese Castle               | Limbo   | Conversation between Cobb and Saito |
+| Dining Room                   | Level 2 | Cobb's Dream                        |
+| Crumbling Hotel               | Level 1 | Nash's Dream                        |
+| The train                     | Reality | Saito's Inception                   |
+| École Spéciale d'Architecture | Reality | Ariadne's Recruitment               |
+| Mombasa                       | Reality | Eames's Recruitment                 |
+| Back Room                     | Reality | Yusuf's Recruitment                 |
+| 747 Airplane                  | Reality | Fischer's Inception                 |
+| New York Streets              | Level 1 | Yussuf's Dream                      |
+| Hotel Lobby                   | Level 2 | Arthur's Dream                      |
+| Hospital Complex              | Level 3 | Eames's Dream                       |
+| Penthouse                     | Limbo   | Conversation between Cobb and Mal   |
+| Dining Room, Castle           | Limbo   | Conversation between Cobb and Saito |
+| Cobb and Mal's Kitchen        | Reality | The Ending                          |
 
 ## Concepts
 
 Explanation of the most important concepts.
 
-TODO: Collect the most important concepts in **ABC order** using 1 or 2 sentence.
-
-| Concepts      | Explanation                                                      |
-| ------------- | ---------------------------------------------------------------- |
-| Inception     | convincing, persuading, ...                                      |
-| Time Dilation | Time passes much slower rate at deeper dream level               |
-| Limbo         | A dream state that has no limitations.                           |
-| Target        | The target for an idea to be planted                             |
-| Catharsis     | It happens when after leaving a dream level, the purification.   |
-| Guilt         | Cobb's guilt because he believe that he caused the death of Mal. |
-| 528-491       | TODO: Describe the importance of this number                     |
-| Projections   | TODO: Describe 1 sentence                                        |
-| Extractor     | TODO: Describe 1 sentence                                        |
-| Architect     | TODO: Describe 1 sentence                                        |
-| Kick          | TODO: Describe 1 sentence                                        |
-| Forger        | TODO: Describe 1 sentence                                        |
-| Chemist       | TODO: Describe 1 sentence                                        |
-| Tourist       | TODO: Describe 1 sentence                                        |
-| Totem         | TODO: Describe 1 sentence                                        |
-| ...           | ...                                                              |
+| Concepts      | Explanation                                                                        |
+| ------------- | ---------------------------------------------------------------------------------- |
+| Architect     | Person who designs the labyrinth of the dream landscapes.                          |
+| Catharsis     | It happens after leaving a dream level.                                            |
+| Chemist       | Person who creates powerful sedatives to stabilize the layers of the dream.        |
+| Extractor     | Person who extracts valuable information from a person while dreaming.             |
+| Forger        | Person who stole others identity and mimics their personalities.                   |
+| Inception     | The act of planting an idea within the person's subconscious mind.                 |
+| Kick          | A procedure that awakes someone in a dream.                                        |
+| Limbo         | A dream state wherein possibilities are limitless.                                 |
+| Projections   | The defenders who attack the dream invaders.                                       |
+| Target        | Person who is the target of the extractors.                                        |
+| Time Dilation | Time passes much slower rate at deeper dream level.                                |
+| Totem         | A special object that determines if an extractor is within another person's dream. |
+| Tourist       | Person who has no specific expertise.                                              |
